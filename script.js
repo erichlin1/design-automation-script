@@ -474,5 +474,7 @@ for (index = 0 ; index < rawData.length ; index++ ) {
 
 
 
-// NOTE: Orderdesk ---> Download ---> csv-to-json.js ---> /JSON (Dropbox) | masterScript.js --->  Adobe Illustrator Export ---> /Order-Files (Dropbox)
-// NOTE: /Order-Files ---> url-retriever (Zapier) --->  Orders-Media-Link (Google Drive) ---> /Order-Sheets ---> .xlsx
+/* 
+Orderdesk ---> Download ---> csv-to-json.js ---> /JSON (Dropbox) | masterScript.js --->  Adobe Illustrator Export ---> /Order-Files (Dropbox)
+/Order-Files ---> url-retriever (Zapier) --->  Orders-Media-Link (Google Drive) ---> /Order-Sheets ---> .xlsx
+*/
